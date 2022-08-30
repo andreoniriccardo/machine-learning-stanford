@@ -1,4 +1,4 @@
-# [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome)
+# [Machine Learning Specialization - Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome)
 This course is divided into 11 weeks.
 
 ## Week 01
